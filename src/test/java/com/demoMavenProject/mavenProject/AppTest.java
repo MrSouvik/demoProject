@@ -23,5 +23,10 @@ public class AppTest
     {
       assertTrue(true );
     }
+    @Test
+    public void shouldAnswerWithTrue3()
+    {
+      assertTrue(true );
+    }
     
 }
